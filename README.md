@@ -38,5 +38,4 @@
 |    <li>En la sección "Project settings" de Firebase, haz clic en "Add app" y sigue las instrucciones para agregar una nueva aplicación web</li>|
 |    <li>Copia las credenciales de Firebase y configura las variables de entorno en el archivo .env de tu proyecto.</li>|
 |</ol>|
-|<h2>Licencias</h2>|
-|<hr>|
+|
