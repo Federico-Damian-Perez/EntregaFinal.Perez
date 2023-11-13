@@ -1,4 +1,4 @@
-|<h1>Panambi</h1>|
+|<h1>Proyecto</h1>|
 |:----|
 |<hr>|
 |<p>Este es un proyecto de ecommerce que se utiliza para el curso de React de CoderHouse. La aplicación permite ver una lista de productos de indumentaria, poder filtrar la busqueda de los mismos , sumarlos a un carrito de compras y realizar la compras en línea. Los productos y las órdenes de compra se almacenan en Firebase.</p>|
