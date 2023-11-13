@@ -1,0 +1,57 @@
+
+.cardProducto {
+    background-color: rgb(253, 222, 209);
+    border-radius: 1rem;
+    width: 15rem;
+    padding: 1rem;
+    margin: 1rem;
+    display: inline-block;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 0 10px black;
+}
+  .cardProducto img {
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+  }
+  
+  .cardProducto h2 {
+    font-size: 1.5rem;
+    margin-top: 10px;
+  }
+  
+  .cardProducto p {
+    font-size: 1rem;
+    margin-top: 10px;
+  }
+  
+ .cardProducto button {
+    display: block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: rgb(255, 255, 255);
+    color: gray;
+    border:  1px solid;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  .cardProducto button:hover {
+    background-color: gray;
+    color: white;
+  }
+
+
+  @media (max-width: 470px) {
+  .cardProducto{
+    width: 9rem;
+    padding: 10px;
+    margin: 10px;
+
+  }
+  .cardProducto img{
+    width: 150px;
+  }
+  }

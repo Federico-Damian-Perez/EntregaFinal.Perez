@@ -1,0 +1,32 @@
+.cart-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+  }
+  
+  .cart-item h4 {
+    margin: 0;
+    font-size: 18px;
+  }
+  
+  .cart-item p {
+    margin: 0;
+    font-size: 16px;
+  }
+  
+  .cart-item button {
+    background-color: #e74c3c;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .cart-item button:hover {
+    background-color: #c0392b;
+  }

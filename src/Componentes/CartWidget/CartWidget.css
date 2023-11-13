@@ -1,0 +1,10 @@
+.imgCarrito {
+    width: 64px;
+}
+
+@media screen and (max-width: 768px) {
+    .imgCarrito{
+        width: 45px;
+    }
+
+  }

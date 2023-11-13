@@ -1,0 +1,178 @@
+{
+  "__collections__": {
+    "ordenes": {
+      "29RJMKhMuu7CBT02e5DW": {
+        "fecha": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1689641195,
+            "_nanoseconds": 692000000
+          }
+        },
+        "total": 1,
+        "apellido": "Perez",
+        "telefono": "232235235",
+        "items": [
+          {
+            "id": "4",
+            "cantidad": 1,
+            "nombre": "Adidas Nemeziz"
+          }
+        ],
+        "nombre": "Damian",
+        "email": "dami@gmail.com",
+        "__collections__": {}
+      },
+      "3ujsIaau2lPUbG4MXh2u": {
+        "fecha": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1689643827,
+            "_nanoseconds": 672000000
+          }
+        },
+        "total": 3,
+        "apellido": "Perez",
+        "telefono": "01142447209",
+        "items": [
+          {
+            "id": "5",
+            "cantidad": 3,
+            "nombre": "Puma Borussia"
+          }
+        ],
+        "nombre": "Damian",
+        "email": "dami@gmail.com",
+        "__collections__": {}
+      }
+    },
+    "productos": {
+      "1": {
+        "nombre": "Nike Tiempo",
+        "idCat": "3",
+        "img": "../img/NikeTiempo.jpg",
+        "descripcion": " Demostra tu pasión por el deporte y lucite en la cancha con los Botines Nike Tiempo. Las texturas de la capellada son suaves y mejoran el tacto con la pelota para maximizar tus jugadas ",
+        "precio": 100,
+        "stock": 96,
+        "__collections__": {}
+      },
+      "2": {
+        "precio": 200,
+        "idCat": "2",
+        "nombre": "Nike Jordan 1 Retro High OG Craft",
+        "img": "../img/jordan.jpg",
+        "descripcion": "Atrae las miradas desde el amanecer hasta el anochecer con el Air Jordan 1. El denim premium en la parte superior está teñido con un gradiente de colores claros a oscuros, que cambia de un efecto de resplandor alpino a crepuscular.",
+        "stock": 98,
+        "__collections__": {}
+      },
+      "3": {
+        "precio": 150,
+        "idCat": "2",
+        "nombre": "Adidas Forum Buckle Low",
+        "img": "../img/adidasBad.jpg",
+        "descripcion": "La combinación de azules en esta nueva edición de zapatillas Adidas de Bad Bunny es lo más resaltante del calzado.  Un Verano Sin Ti, producción discográfica más reciente de Bad Bunny debutó por todo lo alto en las principales plataformas de contenido musical.",
+        "stock": 100,
+        "__collections__": {}
+      },
+      "4": {
+        "precio": 500,
+        "nombre": "Adidas Nemeziz",
+        "idCat": "3",
+        "img": "../img/adidasMessi.jpg",
+        "descripcion": "Nemeziz no es solo un botín. Es un compromiso con la victoria y no con la aprobación del resto. Si preferís la fama a los goles, seguí buscando. Pero si estás preparado para llevar a tu equipo a la gloria, seguí leyendo. El exterior sintético de estos botines para niños luce el logo de Messi y se adapta a la forma de tu pie para mantenerte cómodo mientras deslumbrás al público con tu magia.",
+        "stock": 98,
+        "__collections__": {}
+      },
+      "5": {
+        "nombre": "Puma Borussia",
+        "idCat": "3",
+        "img": "../img/PumaBorussia.jpg",
+        "descripcion": " Ofrecen un equilibrio perfecto entre velocidad y comodidad para que puedas llegar al arco rival con seguridad absoluta. La textura del exterior facilita el control del balón. Presenta una parte superior ligera y resistente, una plantilla de eva suave y una suela para conseguir una máxima velocidad.",
+        "precio": 200,
+        "stock": 100,
+        "__collections__": {}
+      },
+      "6": {
+        "precio": 200,
+        "nombre": "Puma CA Pro Lux Safari",
+        "idCat": "2",
+        "img": "../img/pumaZapas.jpg",
+        "descripcion": " Si buscás un estilo urbano con un toque de aventura, las Zapatillas Urbanas Puma Ca Pro Lux Safari Unisex son perfectas. Están inspiradas en las clásicas California de los años 80, pero con un giro salvaje: una paleta de colores inspirada en la naturaleza. Estas zapatillas combinan perfecto con cualquier atuendo urbano y te ofrecen una comodidad duradera con una entresuela de goma acolchada. Además, su diseño unisex las hace perfectas para cualquier persona que busque una zapatilla elegante y versátil. Entonces: ¿por qué conformarse con lo ordinario cuando podés llevar la naturaleza con vos en cada paso?",
+        "stock": 100,
+        "__collections__": {}
+      },
+      "7":{
+        "precio": 230,
+        "nombre": "Nike Phantom GT2 Academy TF",
+        "idCat": "3",
+        "img": "../img/NikePhantomGT2.jpg",
+        "descripcion": "Celebra la competencia más grande de fútbol con un diseño impulsado por la ciencia de la conectividad y la gravedad que inspira el escenario mundial. Con un look futurista increíble hecho para los jugadores más grandes del mundo, este calzado cuenta con un diseño actualizado y un patrón gráfico para ayudarte a hacer tiros con una precisión milimétrica. Las agujetas descentradas dejan libre la zona de impacto para regatear, pasar y marcar con precisión.",
+        "stock": 100,
+        "__collections__": {}
+      },
+      "8":{
+        "precio": 300,
+        "nombre": "Nike Phantom GX Academy IC",
+        "idCat": "3",
+        "img": "../img/NikePhantom.jpg",
+        "descripcion": "Buscando llevar tu juego al siguiente ¿nivel? Los zapatos Academy te dan el toque de precisión que necesitas para dejar que tus instintos de juego más íntimos deslumbren. Con NikeSkin y una zona táctil de malla para ayudarte a mejorar tu precisión y una placa de agilidad que está diseñada para desviarse y correr contigo, está lista para encender tu espíritu creador de juego espontáneo.",
+        "stock": 100,
+        "__collections__": {}
+      },
+      "9":{
+        "precio": 350,
+        "nombre": "Jordan Max Aura 4",
+        "idCat": "2",
+        "img": "../img/JordanMax.jpg",
+        "descripcion": "La amortiguación ligera que se encuentra en este calzado de básquetbol de última generación se inspira en sus predecesores. Toma vuelo en la cancha con un estilo atemporal y soporte en el talón que se siente como una nube.",
+        "stock": 100,
+        "__collections__": {}
+      },
+      "10":{
+        "precio": 350,
+        "nombre": "Nike Air Force 1",
+        "idCat": "2",
+        "img": "../img/Airforce.jpg",
+        "descripcion": "Sin faltas, todo juego. Confeccionado con al menos un 20% de materiales reciclados por peso, el original que escribió la historia del calzado deportivo se actualiza con cuero sintético.",
+        "stock": 100,
+        "__collections__": {}
+      },
+      "11":{
+        "precio": 50,
+        "nombre": "Camiseta de juego titular boca juniors 22/23",
+        "idCat": "1",
+        "img": "../img/boca.jpg",
+        "descripcion": "Un verdadero clásico. Una revestimiento a dos tonos en el pecho y un escudo de los 80 se destacan sobre el fondo blanco de esta camiseta de suplente adidas Boca Juniors. Creada para un alto rendimiento en la cancha, combina tecnología de ventilación HEAT.RDY con detalles ligeros. En la parte posterior del cuello el escudo actual del club le muestra a todos que lo que sentís por el club perdura en el tiempo.",
+        "stock": 100,
+        "__collections__": {}
+      },
+      "12":{
+        "precio": 50,
+        "nombre": "Camiseta de juego titular RIVER PLATE 22/23",
+        "idCat": "1",
+        "img": "../img/river.jpg",
+        "descripcion": "La evolución de un ícono. Esta camiseta de juego cuenta con un dinámico estampado dentro de su clásica banda roja. La tecnología HEAT.RDY y los paneles de malla se encargan de brindarte la comodidad que necesitás en el partido.",
+        "stock": 100,
+        "__collections__": {}
+      },
+      "13":{
+        "precio": 50,
+        "nombre": "Camiseta Temperley Titular 2023 ",
+        "idCat": "1",
+        "img": "../img/temp.jpg",
+        "descripcion": "Al igual que otras camisetas de nuestra colección Stadium, este modelo combina detalles del diseño tipo réplica con una tela absorbente de sudor para darte un look listo para el partido e inspirado en tu equipo favorito.",
+        "stock": 100,
+        "__collections__": {}
+      },
+      "14":{
+        "precio": 50,
+        "nombre": "Camiseta Titular con Sponsor de Independiente ",
+        "idCat": "1",
+        "img": "../img/rojo.jpg",
+        "descripcion": "La camiseta Puma del Club Atlético Independiente edición Limited es una pieza de colección para aquellos fanáticos del Rojo. Su diseño rememora el reconocido 'maracanaso' que caracterizó al club con la importante gesta de títulos, entre ellas sus 7 Libertadores, en un fútbol que mezcló el buen pie con el compromiso, la actitud y la intensidad. Una camiseta para honrar al Rey de Copas, hogar de héroes, cuna de hazañas y templo del fútbol.",
+        "stock": 100,
+        "__collections__": {}
+      }
+    }
+  }
+}

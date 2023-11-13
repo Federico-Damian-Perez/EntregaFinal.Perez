@@ -1,0 +1,45 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid ;
+    background-color: rgb(253, 233, 225);
+}
+
+li {
+    display: inline-block;
+    margin: 1rem;
+    cursor: pointer;
+}
+
+.botones-lista{
+    display: flex;
+    flex-wrap: wrap;
+
+  }
+.botones{
+    text-decoration: none;
+        display: flex;
+        margin-top: 10px;
+        padding: 10px 20px;
+        background-color: white;
+        color: gray;
+        border:  1px solid;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s ease-in-out;
+}
+.botones:hover {
+    background-color: #000000;
+    color: white;
+  }
+
+@media screen and (max-width: 768px) {
+    .nombre{
+        font-size: 2rem;
+    }
+    .botones{
+        text-align: center;
+        max-width: 95px;
+    }
+  }
